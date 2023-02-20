@@ -1,4 +1,4 @@
-Hey, I'm a Highly-Unstable-Hadron with an approximate half life of 3.14159 * 10^-271828.
+Hey, I'm a Highly-Unstable-Hadron.
 I'm interested in mathematics (calculus and linear algebra mainly) and particle physics.
 I code in Python and C.
 
