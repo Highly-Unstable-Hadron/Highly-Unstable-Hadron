@@ -2,6 +2,8 @@ Hey, I'm a Highly-Unstable-Hadron.
 I'm interested in compiler theory and just about anything mathy (or just plain neat) in CS.
 I code in Python, occasionally C and JavaScript.
 
+Existential Crisis/Untitled Person on Discord
+
 Pronouns: he/him
 
 <!---
